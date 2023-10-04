@@ -16,3 +16,4 @@ Add CSS Stylings
 
 Import Portfolio and Resume files
 
+Code Main Website Structure

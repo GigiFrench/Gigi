@@ -10,3 +10,9 @@ Project Timeline -
 
 Collect Portfolio and Resume files (PDF, JPEG, PNG) 
 
+Code Main Website Structure 
+
+Add CSS Stylings
+
+Import Portfolio and Resume files
+
